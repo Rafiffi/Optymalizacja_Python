@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 
-
+# dwie kostki i ich rozkład - przypkład dla for loop 
 
 
 
