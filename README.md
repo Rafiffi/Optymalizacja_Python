@@ -1,0 +1,2 @@
+# Optymalizacja_Python 
+niedokończone 
